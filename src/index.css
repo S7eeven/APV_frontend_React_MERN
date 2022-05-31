@@ -1,0 +1,4 @@
+/*estos estilos de este archicvo se aplicaran de manera general a todos los compoenetes*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
